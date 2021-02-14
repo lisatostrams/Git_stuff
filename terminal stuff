@@ -1,0 +1,4 @@
+Helaas werken de meeste van deze commands NIET op windows zelf, maar gelukkig wel in de Git Bash en op Linux/Unix.
+
+# CD -  change directory 
+cd foldername # veranderd de directory naar de foldername
